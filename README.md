@@ -12,3 +12,12 @@ The sketch assumes your pedals are connected on pins 2, 3, 4, and 5. If you use 
 * Build and install the SerialScanner component (qmake, make, sudo make install)
 * Run main.qml using qmlscene, triggers will display on the terminal.
 
+## Watch the video:
+https://www.youtube.com/watch?v=aOwuXJ_fbTo&t=23s
+
+## My Mixer channel:
+http://mixer.com/LittleDrummerGuy
+
+## My OBS QML source plugin:
+https://github.com/danieloneill/obs-qmlview
+
