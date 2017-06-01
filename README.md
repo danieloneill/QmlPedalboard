@@ -13,7 +13,7 @@ The sketch assumes your pedals are connected on pins 2, 3, 4, and 5. If you use 
 * Run main.qml using qmlscene, triggers will display on the terminal.
 
 ## Watch the video:
-https://www.youtube.com/watch?v=aOwuXJ_fbTo&t=23s
+https://www.youtube.com/watch?v=aOwuXJ_fbTo
 
 ## My Mixer channel:
 http://mixer.com/LittleDrummerGuy
